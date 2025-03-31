@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "709206805121",
+    "firebase_url": "https://g2-first-project-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "g2-first-project",
+    "storage_bucket": "g2-first-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709206805121:android:cc2dc5c55e346b3d619b80",
+        "android_client_info": {
+          "package_name": "com.example.week_3_blabla_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGLQs9MPEM0aAO6fEb8usZlsMKlcUr_h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
